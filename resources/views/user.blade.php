@@ -1,0 +1,1 @@
+<h1> hello {{$user}} your id is {{$id}}</h1>
